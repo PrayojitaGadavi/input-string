@@ -1,1 +1,5 @@
+![inputing_no](https://user-images.githubusercontent.com/82834644/116389790-3808be80-a7d2-11eb-9982-63fb336ddad5.PNG)
+![iputting_string](https://user-images.githubusercontent.com/82834644/116389794-39d28200-a7d2-11eb-8d1f-8ca3565a6d1d.PNG)
+![id's](https://user-images.githubusercontent.com/82834644/116389797-3b03af00-a7d2-11eb-8e36-7698060bf697.PNG)
+![id's_ 2](https://user-images.githubusercontent.com/82834644/116389801-3b9c4580-a7d2-11eb-9d27-abc1f40e7d91.PNG)
 ![indexing](https://user-images.githubusercontent.com/82834644/116389710-1f000d80-a7d2-11eb-8285-668b5fe96a68.PNG)
